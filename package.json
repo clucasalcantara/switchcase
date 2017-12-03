@@ -1,0 +1,18 @@
+{
+  "name": "switchcase",
+  "version": "1.0.0",
+  "description": "is an internal Redux utility built for avoiding use the the switch statement, because \"it's not immutable, it can't be composed with other functions, and it's a little side effecty\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "switchcase",
+    "lib",
+    "js",
+    "functional",
+    "javascript"
+  ],
+  "author": "Caio Alcantara, Matheus Marsiglio",
+  "license": "MIT"
+}
